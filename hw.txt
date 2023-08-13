@@ -1,0 +1,30 @@
+﻿13/08
+
+Алгоритмы:
+
+решить первые 15 и последние 15 задач из категории 800 итого 30 задач:
+1)https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+
+Твой код сюда:
+\Algorithms\codeforces.cpp
+
+
+Алгоритмы (скачать):
+1) https://t.me/c/1733865840/429
+2) https://www.r-5.org/files/books/computers/algo-list/common/S_Dasgupta_C_Papadimitriou_U_Vazirani-Algorithms-RU.pdf
+3) https://library.samdu.uz/files/52d401215b180949f216bc729b70f22f_Солтис_М_Введение_в_анализ_алгоритмов.pdf	
+                                                                  
+дискретка (математика для прогеров):
+1)https://t.me/c/1733865840/43
+Сделать всё до 15 странице,
+фото конспекта:
+Math\discrete_math\sets.pdf
+
+Для комбинации можно юзать:
+https://jpg2pdf.com/
+
+Ознакомиться с задачами для первокурсников ИТМО(ПМИ) и дать мне фитбэк сколько % можешь решить:
+http://neerc.ifmo.ru/wiki/index.php?title=Список_заданий_по_ДМ_2022_осень
+
+Мой препод по дискретке и алгоритмам(посмотреть вступление, если непонятно, закрыть):
+https://www.youtube.com/watch?v=SRrUxENJFD8&list=PLd7QXkfmSY7YTSrq4xbPQov76atghH3Mr
